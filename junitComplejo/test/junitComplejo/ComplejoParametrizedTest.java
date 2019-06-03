@@ -12,7 +12,7 @@ import org.junit.runners.Parameterized.Parameters;
 
 
 @RunWith(Parameterized.class)
-public class ComplejoTestParametrized {
+public class ComplejoParametrizedTest {
 	
 	private int c1_pr, c1_pi, c2_pr, c2_pi, exp_pr, exp_pi;
 	
